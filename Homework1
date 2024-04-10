@@ -1,0 +1,8 @@
+def say():
+    print('Hello,')
+
+say()
+def print_name():
+    print('World!')
+
+print_name()
