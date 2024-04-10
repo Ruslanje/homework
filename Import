@@ -1,0 +1,2 @@
+import New1
+New1.say(),New1.print_name()
